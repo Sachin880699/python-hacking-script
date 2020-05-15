@@ -1,0 +1,30 @@
+----------------------------Basic Info-------------------
+#1 SMP Debian 5.2.9-2parrot1 (2019-08-25)
+Linux-5.2.0-2parrot1-amd64-x86_64-with-glibc2.29
+sachin
+  PID TTY          TIME CMD
+ 2882 pts/1    00:00:00 bash
+ 3886 pts/1    00:00:00 python3
+ 3889 pts/1    00:00:00 sh
+ 3890 pts/1    00:00:00 ps
+('My public IP address is:', '157.47.3.57')
+('My public IP address is:', '157.47.3.57')
+Total: 464 GiB
+Used: 49 GiB
+Free: 413 GiB
+ 20:12:50 up 4 min,  1 user,  load average: 1.30, 0.99, 0.46
+---------------------------------------Collect info about Desktop--------------------------------------------
+563M
+.idea ,chromedriver ,server.py ,virus ,TBomb ,first_project ,sachin.jpeg ,test.py
+---------------------------------------Collect info about Music--------------------------------------------------
+2.3G
+download ,kali-anonsurf ,4nonimizer ,Microsoft Windows8.1-U3-Pro-x64-Lite-Clean.x64 mshaz1000
+---------------------------------------Collect info about Downloads--------------------------------------------------
+7.1G
+download ,kali-anonsurf ,4nonimizer ,Microsoft Windows8.1-U3-Pro-x64-Lite-Clean.x64 mshaz1000
+---------------------------------------Collect info about Documents--------------------------------------------------
+18G
+download ,kali-anonsurf ,4nonimizer ,Microsoft Windows8.1-U3-Pro-x64-Lite-Clean.x64 mshaz1000
+---------------------------------------Collect info about Videos--------------------------------------------------
+18G
+download ,kali-anonsurf ,4nonimizer ,Microsoft Windows8.1-U3-Pro-x64-Lite-Clean.x64 mshaz1000
